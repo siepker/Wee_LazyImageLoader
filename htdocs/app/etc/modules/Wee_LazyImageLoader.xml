@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Wee_LazyImageLoader>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Wee_LazyImageLoader>
+    </modules>
+</config>

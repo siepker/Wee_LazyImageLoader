@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Wee_LazyImageLoader>
+            <version>1.0.0.0</version>
+        </Wee_LazyImageLoader>
+    </modules>
+    <frontend>
+        <layout>
+            <updates>
+                <wee_lazy_image_loader>
+                    <file>wee_lazy_image_loader.xml</file>
+                </wee_lazy_image_loader>
+            </updates>
+        </layout>
+    </frontend>
+</config>
