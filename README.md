@@ -17,4 +17,4 @@ You only need 1-2 minutes to install this module.
 ## INSTALLATION
 -----------------
 
-visit [http://www.mgt-commerce.com/magento-lazy-image-loader.html]
+visit http://www.mgt-commerce.com/magento-lazy-image-loader.html
