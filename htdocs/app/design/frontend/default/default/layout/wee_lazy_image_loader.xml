@@ -14,4 +14,12 @@
             <action method="addItem"><type>skin_js</type><name>js/lazy_image_loader/common.js</name></action>
         </reference>
     </catalog_category_layered>
+    <catalogsearch_result_index translate="label">
+        <reference name="head">
+            <action method="addItem"><type>skin_js</type><name>js/lazy_image_loader/jquery-1.6.2.min.js</name></action>
+            <action method="addItem"><type>skin_js</type><name>js/lazy_image_loader/lazy-image-loader.js</name></action>
+            <action method="addItem"><type>skin_js</type><name>js/lazy_image_loader/common.js</name></action>
+        </reference>
+    </catalogsearch_result_index>
+    
 </layout>
